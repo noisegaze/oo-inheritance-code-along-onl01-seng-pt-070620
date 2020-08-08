@@ -1,3 +1,22 @@
 class Vehicle
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 end
